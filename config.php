@@ -6,7 +6,12 @@
 	define('DB_PWD', SAE_MYSQL_PASS);
 	define('DB_NAME', SAE_MYSQL_DB);
 	
-	$conn = @mysql_connect(DB_HOST, DB_USER, DB_PWD) or die('数据库链接失败：'.mysql_error());
+	$conn = @masfasdfa;sdfak;lsdfjas;ldf
+		sjfdka;sjjfa
+		
+		
+		
+		asfal;sjfa;ysql_connect(DB_HOST, DB_USER, DB_PWD) or die('数据库链接失败：'.mysql_error());
 	
 	@mysql_select_db(DB_NAME) or die('数据库错误：'.mysql_error());
 	

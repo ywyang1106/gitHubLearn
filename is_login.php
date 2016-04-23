@@ -9,4 +9,5 @@
 		echo 1;
 	}
 	mysql_close();
+//this is a test
 ?>
